@@ -540,7 +540,9 @@ header .logo{
   transform: translateX(5px);
 }
 @media only screen and (max-width: 600px) {
-  
+  .inventory-section p{
+    font-size: 15px;
+  }
 .item-card .item-card-img img{
   width: 100%;
   height: 300px;
@@ -549,7 +551,7 @@ header .logo{
   width: 100%;
 }
 .item-card-info p{
-  font-size: 15px;
+  font-size: 14px;
 }
 .item-card-info p span{
   font-size: 19px;
